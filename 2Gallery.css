@@ -1,0 +1,166 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 28px;
+    text-decoration: none;
+    box-sizing:border-box;
+    font-family: 'Rufina', serif;
+}
+.tavi{
+    width:100%;
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    padding: 10px;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    position:fixed;
+    top:0px;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;
+}
+main{
+    width:100%;
+    margin:0 auto;
+    background-color:#C4C4C4;
+    color:#ffffff;
+}
+.mtavari{
+    padding: 10px;
+}
+footer{
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    padding:30px;
+}
+.end{
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    font-size:33;
+    width:100%;
+    text-align:center;
+}
+.ertad{
+    display:flex;
+    align-items:center;
+    padding:10px;
+}
+h2{
+    font-size: 40px;
+    align-items: center;
+}
+nav ul li a{
+    font-size:33px;
+    padding:20px;
+    color:#E3E3E3;
+}
+nav ul li a:hover{
+    border:none;
+    border-bottom:solid 1px #E3E3E3;
+}
+ul{
+    display:flex;
+    align-items:center;
+}
+.navigacia{
+    width:700px;
+    margin-left:40px;
+}
+h1{
+    width:50px;
+    height:50px;
+    background-image:url(../dachi_dachi...sabolooProeqti/img/stem-cells.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+    font-size:0px;
+}
+.insta{
+    width:50px;
+    height:50px;
+}
+.facebook{
+    width:50px;
+    height:50px;
+}
+.special{
+    border:none;
+    border-bottom:solid 1px #E3E3E3;
+}
+h3{
+    font-size:55px;
+}
+.ortad{
+    border:none;
+    border-bottom:solid 4px #E3E3E3;
+    width:705px;
+    height:90px;
+    margin: 0 auto;
+}
+.cells{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+    margin: 0 auto;
+    width:1500px;
+}
+.all_cells{
+    display:flex;
+    flex-direction:column;
+    margin:50px;
+    padding:8px;
+}
+.all_cells:hover{
+    box-shadow: hsla(0, 0%, 20%, 0.261) 0px 0px 30px 0px;
+}
+.gasaketebeli{
+    width:199px;
+    height:199px;
+}
+.foni{
+    background-color:#B1B1B1;
+    width:1800px;
+    margin: 0 auto;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;
+}
+.gilaki{
+    background-color:#C4C4C4;
+    color:#1E1D1D;
+    border:#2c2c2c 1px solid;
+    box-shadow: hsla(0, 3%, 31%, 0.261) 0px 0px 30px 0px;
+}
+.marjvena{
+    margin-right:250px;
+}
+.marcxena{
+    margin-left:250px;
+}
+.samtad{
+    border:none;
+    border-bottom:solid 4px #E3E3E3;
+    width:312px;
+    height:90px;
+    margin: 0 auto;
+    margin-top:100px;
+}
+.ac{
+    margin:0 auto;
+    width:1250px;
+} 
+.diagrama{
+    margin-left:100px;
+    margin-top:30px;
+}
+.foni2{
+    background-color:#B1B1B1;
+    width:1500px;
+    margin: 0 auto;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;
+}
+.m1{
+    margin-top:90px;
+}
+.m2{
+    margin-bottom:45px;
+}

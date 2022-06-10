@@ -1,0 +1,158 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-size: 28px;
+    text-decoration: none;
+    box-sizing:border-box;
+    font-family: 'Rufina', serif;
+}
+.tavi{
+    width:100%;
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    padding: 10px;
+    display: flex;
+    flex-direction:row;
+    align-items:center;
+    flex-wrap:wrap;
+    justify-content:space-between;
+    position:fixed;
+    top:0px;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;
+}
+header{
+    background-color:#C4C4C4;
+}
+main{
+    background-color:#C4C4C4;
+    color:#ffffff;
+}
+footer{
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    padding:30px;
+    width:100%;
+}
+.end{
+    background-color: #8B8B8B;
+    color:#E3E3E3;
+    font-size:33;
+    width:100%;
+    text-align:center;
+}
+.cover1{
+    background-image: url(../dachi_dachi...sabolooProeqti/img/cell_biology.png);
+    width:100%;
+    padding:40px;
+    color:#E3E3E3;
+    margin-top:90px;
+}
+h2{
+    font-size: 40px;
+    align-items: center;
+}
+nav ul li a{
+    font-size:33px;
+    padding:20px;
+    color:#E3E3E3;
+}
+nav ul li a:hover{
+    border:none;
+    border-bottom:solid 1px #E3E3E3;
+}
+ul{
+    display:flex;
+    align-items:center;
+}
+.navigacia{
+    width:700px;
+    margin-left:40px;
+}
+.text1{
+    margin:0 auto;
+    font-size:30px;
+    width:500px;
+    color:#E3E3E3;
+    text-align: center;
+}
+h3{
+    font-size:50px;
+    color:#737373;
+}
+.text2{
+    font-size:29px;
+    width:740px;
+    background-color:#B1B1B1;
+    color:#faf8f8;
+    padding:10px;
+    text-align: left;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;}
+.general_info{
+    margin-left:75px;
+}
+.text3{
+    font-size:29px;
+    width:700px;
+    background-color:#B1B1B1;
+    color:#faf8f8;
+    padding:10px;
+    text-align: right;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;}
+.surati1{
+    height:370px;
+    width:380px;
+    margin-top:55px;
+    margin-left:400px;
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;}
+.pirveliP{
+    display:flex;
+    align-items:center;
+}
+.meoreP{
+    display:flex;
+    align-items:center;
+    width:100%;
+}
+h1{
+    width:50px;
+    height:50px;
+    background-image:url(../dachi_dachi...sabolooProeqti/img/stem-cells.png);
+    background-size:100%;
+    background-repeat:no-repeat;
+    font-size:0px;
+}
+.ertad{
+    display:flex;
+    align-items:center;
+    padding:10px;
+}
+.insta{
+    width:50px;
+    height:50px;
+}
+.facebook{
+    width:50px;
+    height:50px;
+}
+.HOC{
+    text-align: right;
+}
+.history{
+    display:flex;
+    margin-top:110px;
+}
+.vafshe{
+  margin-left:440px;
+}
+.surati2{
+    margin-left:320px;
+    margin-top:149px;
+}
+.special{
+    border:none;
+    border-bottom:solid 1px #E3E3E3;
+}
+.surattii{
+    box-shadow: hsla(0, 0%, 14%, 0.871) 0px 0px 30px 0px;
+}
